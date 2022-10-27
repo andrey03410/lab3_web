@@ -1,4 +1,5 @@
 <form action="task2a.php" method="post">
+    <p>Введите текст русскими буквами</p>
     <label>
         <textarea name="task2a"></textarea>
     </label>
